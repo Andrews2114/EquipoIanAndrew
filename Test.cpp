@@ -10,3 +10,4 @@ do {
 cout << "How may numbers are you going to type ";
 cin>> n;
 } while (n < 1 || n > 10);
+
